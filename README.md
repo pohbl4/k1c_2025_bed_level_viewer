@@ -41,7 +41,6 @@ If connection fails, confirm that the printer and computer can reach each other 
 
 ---
 ## RUS
----
 
 # Карта стола
 
