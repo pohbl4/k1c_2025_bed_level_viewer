@@ -41,7 +41,6 @@ If connection fails, confirm that the printer and computer can reach each other 
 
 ![Example](https://github.com/pohbl4/k1c_2025_bed_level_viewer/blob/example-png/example.png)
 
----
 ## RUS
 
 # Карта стола
