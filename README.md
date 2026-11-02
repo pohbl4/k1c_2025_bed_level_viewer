@@ -38,7 +38,7 @@ py -3 bed_map.py
 Loading a map does **not** trigger a new calibration. Run Auto Leveling using the printer's screen first. The app may show a saved but inactive mesh profile if no active map exists.
 
 If connection fails, confirm that the printer and computer can reach each other on the same network, that the printer IP is correct, and that the API is available on port 7125.
-
+![Example](https://github.com/pohbl4/k1c_2025_bed_level_viewer/blob/example-png/example.png)
 ---
 ## RUS
 
